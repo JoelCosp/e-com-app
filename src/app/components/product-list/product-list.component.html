@@ -1,0 +1,13 @@
+<div class="flex flex-wrap justify-center -m-4">
+    <app-product-item *ngFor="let product of products" [product]="product"></app-product-item>
+</div>
+
+<div *ngIf="!products.length">
+    <div class="flex flex-col text-center w-full mb-12">
+        <div class="flex flex-col justify-center items-center">
+            <img class="max-w-[400px]" src="https://img.freepik.com/vector-gratis/ups-error-404-ilustracion-concepto-robot-roto_114360-5529.jpg" alt="">
+            <h3>Ohh! No hay productos </h3>
+        </div>
+    </div>
+    <button class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
+</div>

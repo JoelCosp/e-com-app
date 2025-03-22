@@ -1,0 +1,66 @@
+[
+    {
+        "_id": 1,
+        "name": "Auriculares",
+        "description": "Auriculares bluetooth",
+        "category": "Tecnología",
+        "img_url": [
+            "../../assets/img/products/technology/1.jpg",   
+            "../../assets/img/products/technology/2.jpg",   
+            "../../assets/img/products/technology/3.jpg",   
+            "../../assets/img/products/technology/4.jpg"   
+        ],
+        "sale_price": 255,
+        "regular_price": 345,
+        "created_at": "2022-03-14T16:51:07.214X",
+        "slug": "type-headphoens"
+    },
+    {
+        "_id": 2,
+        "name": "Microphone",
+        "description": "High microphone",
+        "category": "Tecnología",
+        "img_url": [
+            "../../assets/img/products/technology/2.jpg",   
+            "../../assets/img/products/technology/1.jpg",   
+            "../../assets/img/products/technology/3.jpg",   
+            "../../assets/img/products/technology/4.jpg"   
+        ],
+        "sale_price": 50,
+        "regular_price": 75,
+        "created_at": "2022-03-14T16:51:07.214X",
+        "slug": "type-microphone"
+    },
+    {
+        "_id": 3,
+        "name": "Table",
+        "description": "Gaming table",
+        "category": "Tecnología",
+        "img_url": [
+            "../../assets/img/products/technology/3.jpg",   
+            "../../assets/img/products/technology/1.jpg",   
+            "../../assets/img/products/technology/2.jpg",   
+            "../../assets/img/products/technology/4.jpg"   
+        ],
+        "sale_price": 200,
+        "regular_price": 280,
+        "created_at": "2022-03-14T16:51:07.214X",
+        "slug": "type-table"
+    },
+    {
+        "_id": 4,
+        "name": "Charger",
+        "description": "Long charger",
+        "category": "Tecnología",
+        "img_url": [
+            "../../assets/img/products/technology/4.jpg",   
+            "../../assets/img/products/technology/1.jpg",   
+            "../../assets/img/products/technology/2.jpg",   
+            "../../assets/img/products/technology/3.jpg"   
+        ],
+        "sale_price": 20,
+        "regular_price": 40,
+        "created_at": "2022-03-14T16:51:07.214X",
+        "slug": "type-charger"
+    }
+]
